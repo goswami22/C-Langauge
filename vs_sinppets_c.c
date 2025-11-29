@@ -1,0 +1,12 @@
+	// Example:
+	//  "C boilerplate": {
+	//  	"prefix": "c boiler",
+	//  	"body": [
+	//  		"#include <stdio.h>\n",	
+	// 		"int main() {",
+	// 		"\t$1",		
+	// 		"\treturn 0;",
+	// 		"}"
+	//  	],
+	//  	"description": "The c langauge bilerplate"
+	//  }
