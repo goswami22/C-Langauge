@@ -6,7 +6,7 @@ int main() {
     float c;
     int d;
     printf("Enter the value of a\n:");
-    scanf("%d", &a);  // Read an integer value from user and store it in 'a'
+    scanf("%d", &a);  // Read an integer value from user and store it in 'a' 
     printf("Enter the value of b\n:");
     scanf("%d", &b);  // Read an integer value from user and store it in 'b'
     printf("The value of c\n:");
