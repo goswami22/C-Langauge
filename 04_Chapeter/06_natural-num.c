@@ -11,5 +11,14 @@ int main() {
         i++;
     } while (i <= n);        
     
+    // using for loop
+     // Initialize a to 1 starting from the first natural number
+    int count;
+    scanf("%d", &count);
+    for (int i = 1; i <= count; i++)
+    {
+        printf("%d\n", i);
+    }
+    
     return 0;
 }
