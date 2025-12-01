@@ -1,4 +1,4 @@
-// problem 6: Write a program to print all natural numbers from 1 to n using do-while loop and for loop.
+// Write a program to print all natural numbers from 1 to n using do-while loop and for loop.
 
 #include <stdio.h>
 

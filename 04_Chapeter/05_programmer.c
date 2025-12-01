@@ -1,4 +1,4 @@
-// problem 5: Write a program to print all the values from 0 to 20 using different loops (while loop, do-while loop, for loop). Print the values only if they are greater than or equal to 10.
+// Write a program to print all the values from 0 to 20 using different loops (while loop, do-while loop, for loop). Print the values only if they are greater than or equal to 10.
 
 
 #include <stdio.h>
